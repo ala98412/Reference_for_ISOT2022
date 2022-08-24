@@ -9,7 +9,7 @@
 
 ### __Reference for ISOT2022__
 
-1. Huang SP, Wang FY, Wang TY. Molecular Phylogeny of the Opsariichthys Group (Teleostei: Cypriniformes) Based On Complete Mitochondrial Genomes. *Zool Stud.* 2017 Dec 21;56:e40. doi: 10.6620/ZS.2017.56-40.
+1. Huang SP, Wang FY, Wang TY. Molecular Phylogeny of the Opsariichthys Group (Teleostei: Cypriniformes) Based On Complete Mitochondrial Genomes. *Zool Stud.* 2017 Dec 21;56:e40. doi: https://doi.org/10.6620/zs.2017.56-40.
 
 2. Ma Gwo-Chin. Systematics, population genetic structure andphylogeography of Zacco (Cypriniformes: Cyprinidae) in Taiwan. [Doctoral thesis, National Taiwan University] 2006 Jan. doi: http://dx.doi.org/10.6342/NTU.2006.02976
 
