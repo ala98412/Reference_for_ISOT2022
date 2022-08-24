@@ -1,5 +1,5 @@
 # Reference_for_ISOT2022
-Reference for ISOT2022
+Reference for ISOT2022, 以染色體層級的基因組裝探討馬口魚類染色體數的演化
 
 1. Huang SP, Wang FY, Wang TY. Molecular Phylogeny of the Opsariichthys Group (Teleostei: Cypriniformes) Based On Complete Mitochondrial Genomes. Zool Stud. 2017 Dec 21;56:e40. doi: 10.6620/ZS.2017.56-40.
 
